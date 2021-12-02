@@ -1,12 +1,15 @@
 **Project Name**
+
 Credit Card Clients (CCC) Default Prediction Using various Machine learning Algorithms
 
 **Data Origin**
+
 This project based on a dataset by I-Cheng Yeh (2019), Department of Information Management, Chung Hua University, Taiwan on a UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 description of the data and the variables values can be found in the UCI data page with the attached link.
 
 **Analysis Description**
+
 Step 1 – simple data exploration using means of all the variables by defaulted person against not defaulted. also a correlation matrix between all the variables to find variables with strong correlation that can be reduced. And a linear regression to explore how strong is the correlation of independent variables (features) to the dependent variable (default).
 
 Step 2 – fitting 7 different Machine learning algorithms with the train data:
